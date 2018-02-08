@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RadioAll</string>
+    <string name="tabHost">This is tab 3</string>
+    <string name="tab_2">This is tab 2</string>
+    <string name="tab1">This is tab 1</string>
+    <string name="Radio1">Radio 1.1</string>
+</resources>
